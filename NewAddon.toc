@@ -1,0 +1,9 @@
+## Interface: 40300
+## Title : NewAddon
+## Notes: Base for new WoW addons
+## Author: Cal Henderson (Bees on Hyjal-US)
+## Version: 1.0
+## Dependencies: 
+## SavedVariablesPerCharacter: NewAddonPrefs
+
+NewAddon.lua
