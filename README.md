@@ -13,8 +13,8 @@ To create an addon based on this template:
 * Edit `MyAddon.lua` and replace every occurance of `NewAddon` with `MyAddon`
 * Launch WoW
 
-The addon template should spawn a black square in the center of the viewport, with a constantly changing number in it. Dragging the frame around will move it. Thje position of the frame will be stored in preferences. Right-clicking the frame will show some text in chat.
+The addon should spawn a black square in the center of the viewport, with a constantly changing number in it. Dragging the square around will move it. The position of the square will be stored in preferences. Right-clicking the square will show some text in chat.
 
-<img src="http://github.iamcal.com/NewAddon/demo.png" />
+<center><img src="http://github.iamcal.com/NewAddon/demo.png" /></center>
 
 You can now modify the addon to suit your purposes. Type `/reload` into chat to see changes take effect.
