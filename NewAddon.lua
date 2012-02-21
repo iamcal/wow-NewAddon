@@ -144,7 +144,7 @@ end
 function NewAddon.UpdateFrame()
 
 	-- update the main frame state here
-	NewAddon.Label:SetText(GetTime());
+	NewAddon.Label:SetText(string.format("%d", GetTime()));
 end
 
 
