@@ -15,6 +15,6 @@ To create an addon based on this template:
 
 The addon should spawn a black square in the center of the viewport, with a constantly changing number in it. Dragging the square around will move it. The position of the square will be stored in preferences. Right-clicking the square will show some text in chat.
 
-<center><img src="http://github.iamcal.com/NewAddon/demo.png" /></center>
+<center><img src="http://iamcal.github.com/NewAddon/demo.png" /></center>
 
 You can now modify the addon to suit your purposes. Type `/reload` into chat to see changes take effect.
